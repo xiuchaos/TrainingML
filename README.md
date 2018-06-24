@@ -1,19 +1,45 @@
 # TrainingML
 
 ## Preparation:
-GitHub
-Markdown
-Jupyter 
+   GitHub  
+   Markdown http://markdownlivepreview.com/
+   Jupyter https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8
 
 ## Courses:
-CS212 (for coding training) https://classroom.udacity.com/courses/cs212 
+   *for programming:*
+   CS212  https://classroom.udacity.com/courses/cs212 
+   CS262  
+
+   *machine learning*
+   Andrew Ng course
+   Coursera Algorithms: Design and Analysis Part 2
+   
+   *stanford course*
+   CS229 (ml)
+   231n  (cv)
+   224n  (nlp)
+   228   (pgm)
+   234   (reinforcement learning)
+   
+   *Berkeley course*
+   CS229-112 (reinforcement learning)
+  
+   
+## Books:
+   Introduction to Probability and Statistics
+   Hastie, Trevor, et al. The elements of statistical learning.
+   Bishop, Christopher M. Pattern recognition and machine learning.
+
+## Papers:
+   DL papers reading roadmap: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
 
-## Papers - CS:
-DL papers reading roadmap: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+## Blogs:
+   Gilad Lotan
+   edchi.blogspot.com
+   hilarymason.com
 
-
-## Papers - Neuroimaging:
+## Neuroimaging:
    *Decoding*
    Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision. Cereb Cortex. 2017 Oct 
    Automatic Recognition of fMRI-derived Functional Networks using 3D Convolutional Neural Networks. IEEE Trans Biomed Eng.
