@@ -32,8 +32,9 @@
 
 ## Papers:
    DL papers reading roadmap: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
-
-
+   Paper with code https://paperswithcode.com/
+   GitXiv http://www.gitxiv.com/
+   
 ## Blogs:
    Gilad Lotan
    edchi.blogspot.com
